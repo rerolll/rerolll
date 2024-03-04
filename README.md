@@ -1,34 +1,42 @@
-<!--
-### - ⚡ Zdarova 👋  
-<p align='center'>
-  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rerolll/count.svg" />
-</p>
+
+# Hello, world !<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">
+
+---
+
+### :man_technologist: Обо мне:
+
+Я начинающий разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rerolll&count_private=true&show_icons=true&theme=buefy" />
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerolll&layout=compact&theme=buefy" />
-</p>
+- :seedling: Завершил курс Python-разработчик от Яндекс Практикум!
 
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rerolll) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kosmakovie@gmail.com)
 
-[![rerolll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rerolll&count_private=true&show_icons=true&theme=buefy)](https://github.com/rerolll)
-[![rerolll's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rerolll&layout=compact&theme=buefy)](https://github.com/rerolll)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rerolll&layout=compact&theme=buefy)](https://github.com/rerolll)
--->
+---
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
-[<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/rerolll/rerolll/blob/main/github-metrics.svg">](https://github.com/rerolll/rerolll)
+### 💻 Технологии:
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/rerolll/rerolll/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/rerolll/rerolll/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+</div>
 
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z88g2ishnobkjgkwo6k3yumb4&redirect=true) -->
+---
 
-<!-- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-rerolll.vercel.app/now-playing">](https://now-playing-66mfrri4j-rerolll.vercel.app/now-playing?open) -->
+### 🛠 Инструменты:
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp;
+</div>
