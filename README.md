@@ -11,7 +11,8 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :seedling: Завершил курс Python-разработчик от Яндекс Практикум!
+- :seedling: [Завершил курс Python-разработчик от Яндекс Практикум!](https://disk.yandex.ru/i/bZqKlQhUnVPpCA)
+- :seedling: [Завершил курс автоматизации тестирования с помощью Selenium и Python от stepik!](https://stepik.org/cert/2386004)
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rerolll) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kosmakovie@gmail.com)
 
